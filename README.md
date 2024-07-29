@@ -22,6 +22,7 @@ done.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Next.js-555?style=flat&logo=javascript)&nbsp;
 
 ## 📈 GitHub Activity Graph:
 
