@@ -1,7 +1,7 @@
 # Haris Ahmed Khan
 
-<p>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"><p>
-<p>Spare some time to take a look at my <a href="https://hariskhan.site">portfolio</a>!</p>
+Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+Spare some time to take a look at my <a href="https://hariskhan.site">portfolio</a>!
 
 # About myself
 
