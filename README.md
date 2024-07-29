@@ -44,6 +44,6 @@ done.
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/haris-ahmed-khan-819309192//"><img height="30" src="https://github.com/Haklifesavr/Haklifesavr/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:hak173129@gmail.com"><img height="30" src="https://github.com/anirudhbHaklifesavrelwadi/Haklifesavr/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/haris-ahmed-khan-819309192//"><img height="30" src="https://github.com/Haklifesavr/Haklifesavr/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:hak173129@gmail.com"><img height="30" src="https://github.com/anirudhbHaklifesavrelwadi/Haklifesavr/blob/main/images/gmail.png"></a>&nbsp;&nbsp;
 
