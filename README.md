@@ -1,16 +1,15 @@
-<p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
-</p>
+# Haris Ahmed Khan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-[![](./src/header_.png)](#)
+<h3>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"><h3>
+<h3>Spare some time to take a look at my <a href="https://anirudhbelwadi.com">portfolio</a>!</h3>
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+<a href="https://www.linkedin.com/in/anirudh-belwadi-7a8707182/"><img src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
+
+# About myself
+
+A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
+
+My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
