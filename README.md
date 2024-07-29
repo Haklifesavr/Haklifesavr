@@ -21,6 +21,7 @@ done.
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
 
 ## 📈 GitHub Activity Graph:
 
