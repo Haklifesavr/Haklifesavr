@@ -19,7 +19,6 @@ done.
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
@@ -30,7 +29,7 @@ done.
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonwebservices)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=007ACC)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;
 
 ## 📈 GitHub Activity Graph:
