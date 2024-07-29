@@ -15,7 +15,7 @@ done.
 ![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
+![Airflow](https://img.shields.io/badge/-Airflow-555?style=flat&logo=Apache-Airflow)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
