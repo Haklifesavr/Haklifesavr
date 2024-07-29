@@ -23,12 +23,12 @@ done.
 ![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-555?style=flat&logo=django)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonwebservices)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;\
 ![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=89c6f5)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;
 
