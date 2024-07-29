@@ -12,25 +12,25 @@ done.
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Airflow](https://img.shields.io/badge/-Airflow-555?style=flat&logo=Apache-Airflow)\
+![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;\
+![Airflow](https://img.shields.io/badge/-Airflow-555?style=flat&logo=Apache-Airflow)
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
-![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
+![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;\
 ![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;\
 ![Django](https://img.shields.io/badge/-Django-555?style=flat&logo=django)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonwebservices)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=FFFFFF)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=89c6f5)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;\
 
 ## 📈 GitHub Activity Graph:
 
