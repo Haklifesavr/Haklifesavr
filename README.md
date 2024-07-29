@@ -41,3 +41,9 @@ done.
     <tr>
         <td align="center"><a href="https://github.com/Haklifesavr#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default"/></a><a href="https://github.com/Haklifesavr#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight"/></a></td>
 </table>
+
+# Quick Links
+
+<a href="https://www.linkedin.com/in/haris-ahmed-khan-819309192//"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:hak173129@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+
