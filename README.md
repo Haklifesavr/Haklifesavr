@@ -29,7 +29,7 @@ done.
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonwebservices)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=058af0)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=45a8f5)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;
 
 ## 📈 GitHub Activity Graph:
