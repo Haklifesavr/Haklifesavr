@@ -40,6 +40,7 @@ done.
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Haklifesavr#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default"/></a><a href="https://github.com/Haklifesavr#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight"/></a></td>
+    </tr>
 </table>
 
 # Quick Links
