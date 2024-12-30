@@ -44,8 +44,6 @@ done.
                 <img src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
             </a>
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak Stats"/>
@@ -54,8 +52,6 @@ done.
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false#gh-dark-mode-only" alt="GitHub Streak Stats"/>
             </a>
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" alt="Top Languages"/>
