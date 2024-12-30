@@ -34,11 +34,9 @@ done.
 
 ## 📈 GitHub Activity Graph:
 
-<table>
-    <tr>
-        <td rowspan="2" align="center"><a href="https://github.com/Haklifesavr#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Haklifesavr#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=farhanmasood-se&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farhanmasood-se&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmasood-se&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Quick Links
 
