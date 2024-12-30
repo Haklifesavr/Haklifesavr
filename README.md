@@ -36,28 +36,28 @@ done.
 
 <table>
     <tr>
-        <td width="33%">
+        <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&card_width=400&line_height=30#gh-light-mode-only" alt="GitHub Stats"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400&line_height=30#gh-dark-mode-only" alt="GitHub Stats"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
             </a>
         </td>
-        <td width="33%">
+        <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false&card_width=400#gh-light-mode-only" alt="GitHub Streak Stats"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak Stats"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false&card_width=400#gh-dark-mode-only" alt="GitHub Streak Stats"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false#gh-dark-mode-only" alt="GitHub Streak Stats"/>
             </a>
         </td>
-        <td width="33%">
+        <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&card_width=400&layout=compact&langs_count=6#gh-light-mode-only" alt="Top Languages"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" alt="Top Languages"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400&layout=compact&langs_count=6#gh-dark-mode-only" alt="Top Languages"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" alt="Top Languages"/>
             </a>
         </td>
     </tr>
