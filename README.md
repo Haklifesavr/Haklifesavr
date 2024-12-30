@@ -34,30 +34,32 @@ done.
 
 ## 📈 GitHub Activity Graph:
 
-<table>
+<table align="center">
     <tr>
-        <td>
+        <td width="50%">
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
+                <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
+                <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
             </a>
         </td>
-        <td>
+        <td width="50%">
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak Stats"/>
+                <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak Stats"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false#gh-dark-mode-only" alt="GitHub Streak Stats"/>
+                <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false#gh-dark-mode-only" alt="GitHub Streak Stats"/>
             </a>
         </td>
-        <td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" alt="Top Languages"/>
+                <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" alt="Top Languages"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" alt="Top Languages"/>
+                <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" alt="Top Languages"/>
             </a>
         </td>
     </tr>
