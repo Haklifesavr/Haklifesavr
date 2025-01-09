@@ -36,20 +36,12 @@ done.
 
 <table align="center">
     <tr>
-        <td width="50%">
+        <td>
             <a href="https://github.com/Haklifesavr#gh-light-mode-only">
                 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
             </a>
             <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
                 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak Stats"/>
-            </a>
-            <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haklifesavr&theme=tokyonight&hide_border=false#gh-dark-mode-only" alt="GitHub Streak Stats"/>
             </a>
         </td>
     </tr>
