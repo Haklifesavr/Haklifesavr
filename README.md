@@ -19,11 +19,12 @@ I'm a full-stack software engineer who's comfortable owning a product from datab
 
 - ⚙️ **Backend:** Python (Django) and Go services, REST APIs, data pipelines and multi-tenant architectures
 - 🎨 **Frontend:** React and Next.js web apps, plus Electron desktop apps
-- ☁️ **Cloud:** deploying and running workloads on **AWS**, **Azure** and **GCP** with Docker
-- 📱 **Mobile:** building apps and taking them through **App Store and Google Play submission**
-- 🧠 **AI & data:** an AI-powered data analytics platform and a multi-tenant HRM system
+- ☁️ **Cloud:** Deploying and running workloads on **AWS**, **Azure** and **GCP** with Docker
+- 📱 **Mobile:** Building apps and taking them through **App Store and Google Play submission**
+- 🐧 **Linux & scripting:** Linux server administration, Bash scripting and automation for deployments and everyday tooling
+- 🧠 **AI & data:** Building **RAG** (retrieval-augmented generation) systems and integrating AI models into products, backed by data pipelines and analytics with Pandas, NumPy and Airflow
 - 👥 Leading teams, reviewing code and shipping reliable software
-- 🌱 Exploring open-source contributions in the Python ecosystem
+- 🌱 Contributing to open source across languages and ecosystems
 
 I'm a team player who's always willing to go the extra mile to get the job done.
 
@@ -56,6 +57,7 @@ I'm a team player who's always willing to go the extra mile to get the job done.
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
