@@ -1,64 +1,90 @@
-# Haris Ahmed Khan
+<h1 align="center">Hi, I'm Haris Ahmed Khan 👋</h1>
 
-<p>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"></p>
-<p>Spare some time to take a look at my <a href="https://hariskhan.site">portfolio</a>!</p>
+<p align="center">
+  <b>Backend Developer & Team Lead @ Dev Dimensions</b><br>
+  Building scalable Python backends, data platforms and AI-powered products.
+</p>
 
-# About myself
+<p align="center">
+  <a href="https://hariskhan-app.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hariskhan--app.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/haris-ahmed-khan-819309192/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hak173129@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I am a dedicated and experienced software engineer with a passion for building high-quality software. I have a strong
-understanding of full-stack development. I am a team player and I am always willing to go the extra mile to get the job
-done.
+---
 
-## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;\
-![Airflow](https://img.shields.io/badge/-Airflow-555?style=flat&logo=Apache-Airflow)
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
-![React.js](https://img.shields.io/badge/-React.js-555?style=flat&logo=React)&nbsp;\
-![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=Nextdotjs)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;\
-![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;
-![Django](https://img.shields.io/badge/-Django-555?style=flat&logo=django)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazonwebservices)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-555?style=flat&logo=googlecloud)&nbsp;\
-![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=89c6f5)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-555?style=flat&logo=elasticsearch)&nbsp;
+## 👨‍💻 About Me
 
-## 📈 GitHub Activity Graph:
+I'm a backend-focused software engineer and team lead with a strong grip on full-stack development. Day to day I:
 
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub Stats"/>
-            </a>
-            <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" colspan="2">
-            <a href="https://github.com/Haklifesavr#gh-light-mode-only">
-                <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" alt="Top Languages"/>
-            </a>
-            <a href="https://github.com/Haklifesavr#gh-dark-mode-only">
-                <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haklifesavr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" alt="Top Languages"/>
-            </a>
-        </td>
-    </tr>
-</table>
+- 🧠 Build an **AI-powered data analytics platform** that turns raw data into insights
+- 🏢 Architect a **multi-tenant HRM system** in Django
+- 🛠️ Design APIs, data pipelines and cloud infrastructure that hold up in production
+- 👥 Lead a team, review code and help ship reliable software
+- 🌱 Exploring open-source contributions in the Python ecosystem
 
-# Quick Links
+I'm a team player who's always willing to go the extra mile to get the job done.
 
-<a href="https://www.linkedin.com/in/haris-ahmed-khan-819309192//"><img height="30" src="https://github.com/Haklifesavr/Haklifesavr/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:hak173129@gmail.com"><img height="30" src="https://github.com/Haklifesavr/Haklifesavr/blob/main/images/gmail.png"></a>&nbsp;&nbsp;
+## 🛠️ Tech Stack
 
+**Languages**<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend & Data**<br>
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Frontend & Desktop**<br>
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📈 GitHub Activity
+
+<!-- These cards are generated by the "GitHub Profile Summary Cards" workflow in this repo
+     and served from the repo itself, so they don't depend on a shared third-party server. -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="GitHub Stats" width="48%" src="./profile-summary-card-output/default/3-stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Most Used Languages" width="48%" src="./profile-summary-card-output/default/2-most-commit-language.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img alt="Repos per Language" width="48%" src="./profile-summary-card-output/default/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img alt="Productive Time" width="48%" src="./profile-summary-card-output/default/4-productive-time.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  Spare some time to explore my <a href="https://hariskhan-app.vercel.app/"><b>portfolio</b></a> ✨
+</p>
