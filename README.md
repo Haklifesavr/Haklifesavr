@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Haris Ahmed Khan 👋</h1>
 
 <p align="center">
-  <b>Backend Developer & Team Lead @ Dev Dimensions</b><br>
-  Building scalable Python backends, data platforms and AI-powered products.
+  <b>Full-Stack Software Engineer · Backend · Frontend · Cloud · Mobile</b><br>
+  I build and ship products end to end: from APIs and data platforms to web and mobile apps in production.
 </p>
 
 <p align="center">
@@ -15,12 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend-focused software engineer and team lead with a strong grip on full-stack development. Day to day I:
+I'm a full-stack software engineer who's comfortable owning a product from database to deployed app. I work across the whole stack:
 
-- 🧠 Build an **AI-powered data analytics platform** that turns raw data into insights
-- 🏢 Architect a **multi-tenant HRM system** in Django
-- 🛠️ Design APIs, data pipelines and cloud infrastructure that hold up in production
-- 👥 Lead a team, review code and help ship reliable software
+- ⚙️ **Backend:** Python (Django) and Go services, REST APIs, data pipelines and multi-tenant architectures
+- 🎨 **Frontend:** React and Next.js web apps, plus Electron desktop apps
+- ☁️ **Cloud:** deploying and running workloads on **AWS**, **Azure** and **GCP** with Docker
+- 📱 **Mobile:** building apps and taking them through **App Store and Google Play submission**
+- 🧠 **AI & data:** an AI-powered data analytics platform and a multi-tenant HRM system
+- 👥 Leading teams, reviewing code and shipping reliable software
 - 🌱 Exploring open-source contributions in the Python ecosystem
 
 I'm a team player who's always willing to go the extra mile to get the job done.
@@ -43,13 +45,14 @@ I'm a team player who's always willing to go the extra mile to get the job done.
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Frontend & Desktop**<br>
+**Frontend, Desktop & Mobile**<br>
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 **Cloud & DevOps**<br>
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
